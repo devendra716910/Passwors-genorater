@@ -7,7 +7,7 @@ Secure Randomization: The program leverages Python's random.choice() function to
 
 User Interaction: The program prompts users to input the desired length of the password, providing an interactive experience that allows for customization.
 
-#QR-MAKER
+# QR-MAKER
 QR Code Generation: The program generates QR codes based on the input provided by the user. In the provided code snippet, a QR code is created for the URL "https://www.aitalwar.com/".
 
 Customizable Content: Users can easily modify the input data to generate QR codes containing different types of information, including URLs, plain text, contact information, Wi-Fi credentials, and more.
