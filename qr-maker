@@ -1,0 +1,3 @@
+import qrcode
+myqr = qrcode.make("https://www.aitalwar.com/")
+myqr.save("myqr.png")
